@@ -1,0 +1,4 @@
+Hello from Claude Code! 🎉
+
+This file was created via the GitHub MCP integration.
+Date: 2026-03-30
